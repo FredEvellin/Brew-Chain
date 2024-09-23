@@ -1,0 +1,21 @@
+body{
+    background-image:url("./mon_svg.svg");
+    background-size: cover; /* Ajuste la taille de l'image pour couvrir tout l'écran */
+    background-repeat: no-repeat; /* Empêche la répétition de l'image */
+     background-position: center; /* Centre l'image */
+    
+     height: 690px;;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.formulaire{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    display: flex;
+    /*align-self: center;*/
+}
